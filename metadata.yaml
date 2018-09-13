@@ -1,0 +1,28 @@
+_repo: Ihmisesta-ja-elamasta-Kirjoitelmia_51375
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kilpi, Volter
+    alias: Ericsson, Volter
+    birthdate: 1874
+    deathdate: 1939
+    gutenberg_agent_id: '6058'
+    url: http://www.gutenberg.org/2009/agents/6058
+description: ''
+gutenberg_issued: '2016-03-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51375'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish literature'
+- !lcc 'PH'
+- !lcsh 'Finnish essays'
+- GITenberg
+tableOfContents: Ajattelusta -- Katsomuksen ihanuudesta -- Ihmisestä -- Taiteesta
+  ja siveydestä -- Totuudesta -- Puhe ilosta -- Hautajaispuhe.
+title: 'Ihmisestä ja elämästä: Kirjoitelmia'
+url: http://www.gutenberg.org/ebooks/51375
